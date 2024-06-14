@@ -1,0 +1,15 @@
+Question: What is the probability of event A occurring?
+
+Given:
+- Total number of possible outcomes: #
+- Number of favorable outcomes for event A: #
+
+Solution:
+To calculate the probability of event A occurring, divide the number of favorable outcomes by the total number of possible outcomes:
+
+Probability of event A = Number of favorable outcomes / Total number of possible outcomes
+
+Substituting the given values:
+Probability of event A = # / #
+
+Therefore, the probability of event A occurring is #.
